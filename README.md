@@ -1,3 +1,3 @@
 # LeetCode
 
-- [ ] 1. Two Sum
+- [X] 1. Two Sum
